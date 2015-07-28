@@ -1,0 +1,19 @@
+{
+	"electron" : {
+		"killMeteorOnExit": true,
+		"packageApp": false,
+		"runOnStartup": true,
+		"appName": "myApp",
+		"platform": "darwin",
+		"arch": "x64",
+		"out": "",
+		"icon": "",
+		"app-bundle-id": "",
+		"app-version": "",
+		"helper-bundle-id": "",
+		"ignore": "",
+		"prune": "",
+		"asar": "",
+		"version": "0.25.3"
+	}
+}
